@@ -6,6 +6,8 @@
 1. [vue-2-cod3r-intro-2024](https://github.com/richardborgesdev/vue-2-cod3r-intro-2024)
 2. [vue-2-cod3r-monster-killer-2024](https://github.com/richardborgesdev/vue-2-cod3r-monster-killer-2024)
 3. [vue-2-cod3r-todo-list-2024](https://github.com/richardborgesdev/vue-2-cod3r-todo-list-2024)
+1. [vue-2-cod3r-stock-trader-2024](https://github.com/richardborgesdev/vue-2-cod3r-stock-trader-2024)
+1. [vue-3-cod3r-calculator-2024](https://github.com/richardborgesdev/vue-3-cod3r-calculator-2024)
 
 
 ### [Free Code Camp](https://www.freecodecamp.org/learn)
@@ -20,3 +22,6 @@
 
 ### Technology
 1. [Chrome for developers](https://www.youtube.com/@ChromeDevs)
+
+### Books
+1. [The Front End Developer/Engineer Handbook 2024](https://frontendmasters.com/guides/front-end-handbook/2024/)
