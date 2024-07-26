@@ -24,5 +24,11 @@
 ### Chrome
 1. [Chrome for developers](https://www.youtube.com/@ChromeDevs)
 
+### Vue
+1. [Vue Mastery](https://www.youtube.com/@VueMastery)
+1. [Vue](https://vuejs.org/api/)
+1. [Vite](https://vitejs.dev/guide/api-javascript)
+1. [Vitest](https://vitest.dev/api/)
+
 ## Books
 1. [The Front End Developer/Engineer Handbook 2024](https://frontendmasters.com/guides/front-end-handbook/2024/)
