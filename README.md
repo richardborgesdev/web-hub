@@ -46,6 +46,11 @@
 1. https://vuetifyjs.com/en/components/explorer/
 
 ## References
-1. [Roadmap](https://roadmap.sh/frontend)
-1. [The Front End Developer/Engineer Handbook 2024](https://frontendmasters.com/guides/front-end-handbook/2024/)
-1. [web.dev](https://web.dev/)
+1. https://roadmap.sh/frontend
+1. https://frontendmasters.com/guides/front-end-handbook/2024/
+1. https://web.dev/
+
+
+## 2024 Researches
+1. https://survey.stackoverflow.co/2024/
+1. https://pesquisa.codigofonte.com.br/2024
