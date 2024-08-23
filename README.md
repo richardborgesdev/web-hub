@@ -54,3 +54,7 @@
 ## 2024 Researches
 1. https://survey.stackoverflow.co/2024/
 1. https://pesquisa.codigofonte.com.br/2024
+
+## Podcasts
+1. https://www.hipsters.tech/category/podcast/
+1. https://osagilistas.com/
