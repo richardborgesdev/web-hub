@@ -58,3 +58,4 @@
 ## Podcasts
 1. https://www.hipsters.tech/category/podcast/
 1. https://osagilistas.com/
+1. https://www.devsemfronteiras.tech/
