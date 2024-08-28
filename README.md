@@ -51,6 +51,9 @@
 1. https://frontendmasters.com/guides/front-end-handbook/2024/
 1. https://web.dev/
 
+## Books
+1. https://staffeng.com/book
+1. https://www.oreilly.com/library/view/peopleware-productive-projects/9780133440706/
 
 ## 2024 Researches
 1. https://survey.stackoverflow.co/2024/
