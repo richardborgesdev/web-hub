@@ -22,6 +22,7 @@
 1. [Fireship | Jeffrey Delaney](https://www.youtube.com/@Fireship)
 1. [Filipe Deschamps](https://www.youtube.com/@FilipeDeschamps)
 1. [Attekita Dev | Karol Attekita](https://www.youtube.com/@attekitadev)
+1. [Academind | Maximilian Schwarzmüller](https://www.youtube.com/@academind)
 
 ## Technology
 ### Chrome
