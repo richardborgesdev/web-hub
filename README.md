@@ -2,6 +2,9 @@
 
 ## Repos
 
+### [Academind | React - The Complete Guide 2024 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux)
+1. [react-18-academind-getting-started-2024](https://github.com/richardborgesdev/react-18-academind-getting-started-2024)
+
 ### [Cod3r | Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)](https://www.udemy.com/course/vue-js-completo)
 1. [vue-2-cod3r-intro-2024](https://github.com/richardborgesdev/vue-2-cod3r-intro-2024)
 1. [vue-2-cod3r-monster-killer-2024](https://github.com/richardborgesdev/vue-2-cod3r-monster-killer-2024)
@@ -9,6 +12,7 @@
 1. [vue-2-cod3r-stock-trader-2024](https://github.com/richardborgesdev/vue-2-cod3r-stock-trader-2024)
 1. [vue-3-cod3r-calculator-2024](https://github.com/richardborgesdev/vue-3-cod3r-calculator-2024)
 1. [vue-3-cod3r-monty-hall-2024](https://github.com/richardborgesdev/vue-3-cod3r-monty-hall-2024)
+1. [vue-3-cod3r-knowledge-2024](https://github.com/richardborgesdev/vue-3-cod3r-knowledge-2024)
 
 
 ### [Free Code Camp](https://www.freecodecamp.org/learn)
