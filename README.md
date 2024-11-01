@@ -50,6 +50,11 @@
 1. https://vitejs.dev/guide/api-javascript
 1. https://vitest.dev/api/
 1. https://vuetifyjs.com/en/components/explorer/
+1. https://weekly-vue.news/
+
+### React
+1. https://react.dev/
+1. https://thisweekinreact.com/
 
 ## References
 1. https://roadmap.sh/frontend
