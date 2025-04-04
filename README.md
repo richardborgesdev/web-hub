@@ -4,6 +4,14 @@
 
 ### [Academind | React - The Complete Guide 2024 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux)
 1. [react-18-academind-getting-started-2024](https://github.com/richardborgesdev/react-18-academind-getting-started-2024)
+1. [react-18-academind-tic-tac-toe-2024](https://github.com/richardborgesdev/react-18-academind-tic-tac-toe-2024)
+1. [react-18-academind-investment-calculator-2024](https://github.com/richardborgesdev/react-18-academind-investment-calculator-2024)
+1. [react-18-academind-styling-components-2024](https://github.com/richardborgesdev/react-18-academind-styling-components-2024)
+1. [react-18-academind-debugging-apps-2025](https://github.com/richardborgesdev/react-18-academind-debugging-apps-2025)
+1. [react-19-academind-refs-portals-2025](https://github.com/richardborgesdev/react-19-academind-refs-portals-2025)
+1. [react-19-academind-project-management-app-2025](https://github.com/richardborgesdev/react-19-academind-project-management-app-2025)
+1. [react-19-academind-advanced-state-management-2025](https://github.com/richardborgesdev/react-19-academind-advanced-state-management-2025)
+1. [react-19-academind-side-effects-use-effect-2025](https://github.com/richardborgesdev/react-19-academind-side-effects-use-effect-2025)
 
 ### [Cod3r | Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)](https://www.udemy.com/course/vue-js-completo)
 1. [vue-2-cod3r-intro-2024](https://github.com/richardborgesdev/vue-2-cod3r-intro-2024)
