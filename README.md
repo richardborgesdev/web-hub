@@ -32,7 +32,7 @@
 ## Persons
 1. [Fabio Akita](https://www.youtube.com/@Akitando)
 1. [Mario Souto](https://www.youtube.com/@DevSoutinho)
-1. [Erick Wendel](https://www.youtube.com/@ErickWendelTraining)
+1. [Erick Wendel](https://www.youtube.com/@ErickWendelAcademy)
 1. [Cod3r | Leonardo Leitão](https://www.youtube.com/@cod3r)
 1. [Fireship | Jeffrey Delaney](https://www.youtube.com/@Fireship)
 1. [Filipe Deschamps](https://www.youtube.com/@FilipeDeschamps)
